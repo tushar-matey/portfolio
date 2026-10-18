@@ -4,19 +4,37 @@ const CERTIFICATIONS = [
     name: 'AWS Certified Cloud Practitioner',
     issuer: 'Amazon Web Services (AWS)',
     date: 'Credential Verified',
-    url: 'https://bit.ly/4x9Gcxu',
+    url: 'https://drive.google.com/file/d/1978MTXmjhJPYHffQmiuaxo9fDCzA7YIR/view?usp=sharing',
     description:
       'Validates overall understanding of AWS Cloud platform, core services (EC2, S3, Lambda, RDS, VPC), security, architecture, cloud economics, and compliance.',
+  },
+  {
+    badge: '🤖',
+    name: 'Applied Machine Learning in Python',
+    issuer: 'University of Michigan (Coursera)',
+    date: 'Dec 25, 2025',
+    url: 'https://drive.google.com/file/d/1uxyUws9mweAx_LI8u6tQ8ysn_5HX6Vux/view?usp=sharing',
+    description:
+      'Demonstrates skills in supervised and unsupervised learning, predictive modeling, feature engineering, model evaluation, and implementing machine learning algorithms using Python and Scikit-learn.',
   },
   {
     badge: '🌐',
     name: 'Cloud Computing and Distributed Systems',
     issuer: 'NPTEL SWAYAM (Ministry of Education, Govt. of India)',
     date: 'Credential Verified',
-    url: 'https://bit.ly/3S8C7up',
+    url: 'https://drive.google.com/file/d/1S44YDP1tYR_GF_H1WIShqb6v2nEwMYLV/view?usp=sharing',
     description:
       'Rigorous academic certification covering distributed consensus, fault-tolerance, cloud virtualization, storage architectures, and parallel computation models.',
   },
+  {
+    badge: '🌐',
+    name: 'Introduction To Internet Of Things',
+    issuer: 'NPTEL SWAYAM (Ministry of Education, Govt. of India)',
+    date: 'Credential Verified',
+    url: 'https://drive.google.com/file/d/1ePHDStUhjHP3jH2yZLe6ftYZlvFLWeo5/view?usp=sharing',
+    description:
+      'Gained foundational skills in IoT architecture, sensor and actuator integration, networking protocols, embedded systems using Raspberry Pi, and cloud-based IoT application development.',
+  }
 ]
 
 export default function Certifications() {
