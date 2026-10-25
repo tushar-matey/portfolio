@@ -58,7 +58,7 @@ B.Tech. Computer Science and Engineering (Specialization in Cloud Computing and 
 ## Achievements & Competitive Programming
 
 - Solved **500+** algorithmic problems on [LeetCode](https://leetcode.com/u/Tushar_Sharad_Matey/) covering Array, Tree, Graph, DP and greedy techniques.
-- Participated in **30+** LeetCode Weekly Contests with a peak rating of **1585**.
+- Participated in **30+** LeetCode Weekly Contests with a rating of **1600+**.
 
 ## Certifications
 

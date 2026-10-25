@@ -73,8 +73,8 @@ export default function About() {
                 <div className="stat-label">Weekly Contests</div>
               </div>
               <div className="stat-card">
-                <div className="stat-number">1585</div>
-                <div className="stat-label">Peak LC Rating</div>
+                <div className="stat-number">1600+</div>
+                <div className="stat-label">LeetCode Rating</div>
               </div>
             </div>
           </div>

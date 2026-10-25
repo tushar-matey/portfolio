@@ -32,14 +32,14 @@ export default function Achievements() {
 
           <div className="achievement-card reveal-right">
             <div className="achievement-number">1600+</div>
-            <div className="achievement-label">Peak Contest Rating (35+ Contests)</div>
+            <div className="achievement-label">Contest Rating (40+ Contests)</div>
             <p className="achievement-desc">
               Regular participant in official LeetCode Weekly &amp; Biweekly algorithmic contests. Demonstrates algorithmic agility, time-pressured debugging, and optimal time/space complexity optimization in competitive environments.
             </p>
             <div style={{ marginTop: '1.5rem' }}>
               <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
-                <span className="skill-tag">35+ Contests</span>
-                <span className="skill-tag">Peak: 1600+</span>
+                <span className="skill-tag">40+ Contests</span>
+                <span className="skill-tag">Rating: 1600+</span>
                 <span className="skill-tag">C++ (DSA)</span>
                 <span className="skill-tag">Clean Complexity</span>
               </div>
