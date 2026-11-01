@@ -36,7 +36,7 @@ const PROJECTS: ProjectData[] = [
       'Node.js',
     ],
     githubUrl: 'https://github.com/tushar-matey/KeyTake2',
-    liveUrl: 'https://keytake2.vercel.app/login',
+    liveUrl: 'https://keytake2.vercel.app/',
     status: 'LIVE ON VERCEL',
     badgeColor: 'var(--neon-green)',
   },

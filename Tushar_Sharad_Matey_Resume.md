@@ -30,7 +30,7 @@ B.Tech. Computer Science and Engineering (Specialization in Cloud Computing and 
 
 ### KeyTake | AI-Powered Meeting Intelligence
 
-**Links:** [GitHub Repository](https://github.com/tushar-matey/KeyTake2) · [Live Demo](https://keytake2.vercel.app/login)  
+**Links:** [GitHub Repository](https://github.com/tushar-matey/KeyTake2) · [Live Demo](https://keytake2.vercel.app/)  
 **Technologies:** AWS Bedrock, Strands Agents, Amazon S3, AWS Lambda, Amazon Cognito, Titan Embeddings V2, React.js, TypeScript, Node.js
 
 - Built an AI-powered meeting intelligence platform using Agentic AI (Strands Agents), RAG, AWS Knowledge Bases, and Amazon S3 Vectors to transform meeting recordings into searchable, context-aware information.
